@@ -1,5 +1,3 @@
-/* C Program to find Largest of Three numbers using Else If Statement */
-
 #include <stdio.h>
 
 int main()
